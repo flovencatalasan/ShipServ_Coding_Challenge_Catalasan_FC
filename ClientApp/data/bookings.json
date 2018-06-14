@@ -1,0 +1,3231 @@
+﻿[
+  {
+    "ReferenceNo": "DHQQXH",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T09:21:03.76Z",
+    "PassengerNames": [
+      {
+        "FirstName": "qaz",
+        "MiddleName": "qaz",
+        "LastName": "qaz",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 2849.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~",
+        "ArrivalStation": {
+          "StationCode": "ILO",
+          "StationName": "Iloilo",
+          "AirportName": "Iloilo International Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+            "BaseSum": 3614.8800,
+            "BaseFare": 2849.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 341.8800,
+            "SegmentIdentity": [ "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2849.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 341.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:10:00",
+            "SegmentSellKey": "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~",
+            "ArrivalStation": {
+              "StationCode": "ILO",
+              "StationName": "Iloilo",
+              "AirportName": "Iloilo International Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 451",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-08-08T05:30:00",
+            "STD": "2018-08-08T04:20:00",
+            "UTCA": "2018-08-07T21:30:00",
+            "UTCD": "2018-08-07T20:20:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+                "BaseSum": 3614.8800,
+                "BaseFare": 2849.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 341.8800,
+                "SegmentIdentity": [ "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2849.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 341.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "ILO",
+                "Note": "",
+                "STD": "2018-08-08T04:20:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "DHQQXH",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824950
+  },
+  {
+    "ReferenceNo": "JGYW9K",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T08:16:38.607Z",
+    "PassengerNames": [
+      {
+        "FirstName": "qwerty",
+        "MiddleName": "qwerty",
+        "LastName": "qwerty",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 2849.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~",
+        "ArrivalStation": {
+          "StationCode": "ILO",
+          "StationName": "Iloilo",
+          "AirportName": "Iloilo International Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+            "BaseSum": 3614.8800,
+            "BaseFare": 2849.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 341.8800,
+            "SegmentIdentity": [ "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2849.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 341.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:10:00",
+            "SegmentSellKey": "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~",
+            "ArrivalStation": {
+              "StationCode": "ILO",
+              "StationName": "Iloilo",
+              "AirportName": "Iloilo International Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 451",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-08-08T05:30:00",
+            "STD": "2018-08-08T04:20:00",
+            "UTCA": "2018-08-07T21:30:00",
+            "UTCD": "2018-08-07T20:20:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+                "BaseSum": 3614.8800,
+                "BaseFare": 2849.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 341.8800,
+                "SegmentIdentity": [ "5J~ 451~ ~~MNL~08/08/2018 04:20~ILO~08/08/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2849.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 341.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "ILO",
+                "Note": "",
+                "STD": "2018-08-08T04:20:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "JGYW9K",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824923
+  },
+  {
+    "ReferenceNo": "GCKHNW",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T06:35:19.873Z",
+    "PassengerNames": [
+      {
+        "FirstName": "mnb",
+        "MiddleName": "jhg",
+        "LastName": "tyu",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 2299.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 451~ ~~MNL~07/31/2018 04:20~ILO~07/31/2018 05:30~",
+        "ArrivalStation": {
+          "StationCode": "ILO",
+          "StationName": "Iloilo",
+          "AirportName": "Iloilo International Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "V",
+            "CarrierCode": "5J",
+            "FareBasisCode": "VRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~V~ ~VRP~5501~~0~X",
+            "BaseSum": 2998.8800,
+            "BaseFare": 2299.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 275.8800,
+            "SegmentIdentity": [ "5J~ 451~ ~~MNL~07/31/2018 04:20~ILO~07/31/2018 05:30~^0~V~ ~VRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2299.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-ILO",
+                    "Amount": 275.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:10:00",
+            "SegmentSellKey": "5J~ 451~ ~~MNL~07/31/2018 04:20~ILO~07/31/2018 05:30~",
+            "ArrivalStation": {
+              "StationCode": "ILO",
+              "StationName": "Iloilo",
+              "AirportName": "Iloilo International Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 451",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-07-31T05:30:00",
+            "STD": "2018-07-31T04:20:00",
+            "UTCA": "2018-07-30T21:30:00",
+            "UTCD": "2018-07-30T20:20:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "V",
+                "CarrierCode": "5J",
+                "FareBasisCode": "VRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~V~ ~VRP~5501~~0~X",
+                "BaseSum": 2998.8800,
+                "BaseFare": 2299.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 275.8800,
+                "SegmentIdentity": [ "5J~ 451~ ~~MNL~07/31/2018 04:20~ILO~07/31/2018 05:30~^0~V~ ~VRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2299.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-ILO",
+                        "Amount": 275.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "ILO",
+                "Note": "",
+                "STD": "2018-07-31T04:20:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "GCKHNW",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824854
+  },
+  {
+    "ReferenceNo": "I5PV4L",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T05:35:51.073Z",
+    "PassengerNames": [
+      {
+        "FirstName": "QWERTY",
+        "MiddleName": "",
+        "LastName": "TEST",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 1299.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 561~ ~~MNL~07/16/2018 00:50~CEB~07/16/2018 02:10~",
+        "ArrivalStation": {
+          "StationCode": "CEB",
+          "StationName": "Cebu",
+          "AirportName": "Mactan Cebu International Airport Terminal 1",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "Z",
+            "CarrierCode": "5J",
+            "FareBasisCode": "ZRP",
+            "FareTypeCode": "P",
+            "FareTypeName": "Promo",
+            "ProductClass": "YP",
+            "FareSellKey": "0~Z~ ~ZRP~5510~~0~X",
+            "BaseSum": 1878.8800,
+            "BaseFare": 1299.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 155.8800,
+            "SegmentIdentity": [ "5J~ 561~ ~~MNL~07/16/2018 00:50~CEB~07/16/2018 02:10~^0~Z~ ~ZRP~5510~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 1299.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 155.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:20:00",
+            "SegmentSellKey": "5J~ 561~ ~~MNL~07/16/2018 00:50~CEB~07/16/2018 02:10~",
+            "ArrivalStation": {
+              "StationCode": "CEB",
+              "StationName": "Cebu",
+              "AirportName": "Mactan Cebu International Airport Terminal 1",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 561",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-07-16T02:10:00",
+            "STD": "2018-07-16T00:50:00",
+            "UTCA": "2018-07-15T18:10:00",
+            "UTCD": "2018-07-15T16:50:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "Z",
+                "CarrierCode": "5J",
+                "FareBasisCode": "ZRP",
+                "FareTypeCode": "P",
+                "FareTypeName": "Promo",
+                "ProductClass": "YP",
+                "FareSellKey": "0~Z~ ~ZRP~5510~~0~X",
+                "BaseSum": 1878.8800,
+                "BaseFare": 1299.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 155.8800,
+                "SegmentIdentity": [ "5J~ 561~ ~~MNL~07/16/2018 00:50~CEB~07/16/2018 02:10~^0~Z~ ~ZRP~5510~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 1299.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 155.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "CEB",
+                "Note": "",
+                "STD": "2018-07-16T00:50:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "I5PV4L",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824766
+  },
+  {
+    "ReferenceNo": "HC1LWZ",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T05:15:18.737Z",
+    "PassengerNames": [
+      {
+        "FirstName": "QWERTY",
+        "MiddleName": "",
+        "LastName": "TEST",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 4599.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "SH",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 108~ ~~MNL~07/24/2018 05:30~HKG~07/24/2018 07:40~",
+        "ArrivalStation": {
+          "StationCode": "HKG",
+          "StationName": "HongKong",
+          "AirportName": "Hong Kong International Airport",
+          "CountryCode": "HK"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "V",
+            "CarrierCode": "5J",
+            "FareBasisCode": "VRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~V~ ~VRP~6001~~0~X",
+            "BaseSum": 5149.0000,
+            "BaseFare": 4599.0000,
+            "BaseFee": 550.0000,
+            "BaseTax": 0.0,
+            "SegmentIdentity": [ "5J~ 108~ ~~MNL~07/24/2018 05:30~HKG~07/24/2018 07:40~^0~V~ ~VRP~6001~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 4599.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-HKG",
+                    "Amount": 491.0700
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-HKG",
+                    "Amount": 58.9300
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "02:10:00",
+            "SegmentSellKey": "5J~ 108~ ~~MNL~07/24/2018 05:30~HKG~07/24/2018 07:40~",
+            "ArrivalStation": {
+              "StationCode": "HKG",
+              "StationName": "HongKong",
+              "AirportName": "Hong Kong International Airport",
+              "CountryCode": "HK"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 108",
+              "OpSuffix": " "
+            },
+            "IsInternational": true,
+            "STA": "2018-07-24T07:40:00",
+            "STD": "2018-07-24T05:30:00",
+            "UTCA": "2018-07-23T23:40:00",
+            "UTCD": "2018-07-23T21:30:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "V",
+                "CarrierCode": "5J",
+                "FareBasisCode": "VRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~V~ ~VRP~6001~~0~X",
+                "BaseSum": 5149.0000,
+                "BaseFare": 4599.0000,
+                "BaseFee": 550.0000,
+                "BaseTax": 0.0,
+                "SegmentIdentity": [ "5J~ 108~ ~~MNL~07/24/2018 05:30~HKG~07/24/2018 07:40~^0~V~ ~VRP~6001~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 4599.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-HKG",
+                        "Amount": 491.0700
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-HKG",
+                        "Amount": 58.9300
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "HC1LWZ",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824754
+  },
+  {
+    "ReferenceNo": "A8R44P",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T03:51:56.28Z",
+    "PassengerNames": [
+      {
+        "FirstName": "kris one",
+        "MiddleName": "test",
+        "LastName": "kho",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 2407.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Connecting",
+        "JourneySellKey": "5J~ 583~ ~~MNL~06/14/2018 21:05~CEB~06/14/2018 22:25~^DG~6515~ ~~CEB~06/15/2018 05:30~DGT~06/15/2018 06:20~",
+        "ArrivalStation": {
+          "StationCode": "DGT",
+          "StationName": "Dumaguete ",
+          "AirportName": "Sibulan Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Governing^Sector",
+            "ClassOfService": "A^E",
+            "CarrierCode": "5J^5J",
+            "FareBasisCode": "ADNR^ERP",
+            "FareTypeCode": "P",
+            "FareTypeName": "Promo",
+            "ProductClass": "SF^YP",
+            "FareSellKey": "2~A~ ~ADNR~5211~~0~X^1~E~ ~ERP~5510~~0~",
+            "BaseSum": 3811.8400,
+            "BaseFare": 2757.0000,
+            "BaseFee": 724.0000,
+            "BaseTax": 330.8400,
+            "SegmentIdentity": [ "5J~ 583~ ~~MNL~06/14/2018 21:05~CEB~06/14/2018 22:25~^2~A~ ~ADNR~5211~~0~X", "DG~6515~ ~~CEB~06/15/2018 05:30~DGT~06/15/2018 06:20~^1~E~ ~ERP~5510~~0~" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2407.0000
+                  },
+                  {
+                    "ChargeType": 8,
+                    "ChargeCode": "",
+                    "TicketCode": "CA",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 350.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 433.0400
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 51.9600
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-CEB",
+                    "Amount": 330.8400
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:20:00",
+            "SegmentSellKey": "5J~ 583~ ~~MNL~06/14/2018 21:05~CEB~06/14/2018 22:25~",
+            "ArrivalStation": {
+              "StationCode": "CEB",
+              "StationName": "Cebu",
+              "AirportName": "Mactan Cebu International Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 583",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-06-14T22:25:00",
+            "STD": "2018-06-14T21:05:00",
+            "UTCA": "2018-06-14T14:25:00",
+            "UTCD": "2018-06-14T13:05:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Governing",
+                "ClassOfService": "A",
+                "CarrierCode": "5J",
+                "FareBasisCode": "ADNR",
+                "FareTypeCode": "P",
+                "FareTypeName": "Promo",
+                "ProductClass": "SF",
+                "FareSellKey": "2~A~ ~ADNR~5211~~0~X",
+                "BaseSum": 2592.8400,
+                "BaseFare": 1538.0000,
+                "BaseFee": 724.0000,
+                "BaseTax": 330.8400,
+                "SegmentIdentity": [ "5J~ 583~ ~~MNL~06/14/2018 21:05~CEB~06/14/2018 22:25~^2~A~ ~ADNR~5211~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 1188.0000
+                      },
+                      {
+                        "ChargeType": 8,
+                        "ChargeCode": "",
+                        "TicketCode": "CA",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 350.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-CEB",
+                        "Amount": 330.8400
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "CEB-DGT",
+                        "Amount": 267.8600
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "CEB-DGT",
+                        "Amount": 32.1400
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "BG15",
+                "SSRFeeCode": "BAG15",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "CEB",
+                "Note": "",
+                "STD": "2018-06-14T21:05:00"
+              },
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "CEB",
+                "Note": "",
+                "STD": "2018-06-14T21:05:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [
+              {
+                "PassengerNumber": 0,
+                "ArrivalStation": "CEB",
+                "DepartureStation": "MNL",
+                "UnitDesignator": "15D",
+                "CompartmentDesignator": "Y",
+                "PropertyList": [
+                  {
+                    "TypeCode": 1,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 4,
+                    "Value": "1"
+                  },
+                  {
+                    "TypeCode": 20,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 7,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 18,
+                    "Value": "Y"
+                  }
+                ]
+              }
+            ],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          },
+          {
+            "Duration": "00:50:00",
+            "SegmentSellKey": "DG~6515~ ~~CEB~06/15/2018 05:30~DGT~06/15/2018 06:20~",
+            "ArrivalStation": {
+              "StationCode": "DGT",
+              "StationName": "Dumaguete ",
+              "AirportName": "Sibulan Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "CEB",
+              "StationName": "Cebu",
+              "AirportName": "Mactan Cebu International Airport",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "DG",
+              "FlightNumber": "6515",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-06-15T06:20:00",
+            "STD": "2018-06-15T05:30:00",
+            "UTCA": "2018-06-14T22:20:00",
+            "UTCD": "2018-06-14T21:30:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Sector",
+                "ClassOfService": "E",
+                "CarrierCode": "5J",
+                "FareBasisCode": "ERP",
+                "FareTypeCode": "P",
+                "FareTypeName": "Promo",
+                "ProductClass": "YP",
+                "FareSellKey": "1~E~ ~ERP~5510~~0~",
+                "BaseSum": 1219.0000,
+                "BaseFare": 1219.0000,
+                "BaseFee": 0.0,
+                "BaseTax": 0.0,
+                "SegmentIdentity": [ "DG~6515~ ~~CEB~06/15/2018 05:30~DGT~06/15/2018 06:20~^1~E~ ~ERP~5510~~0~" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 1219.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "BG15",
+                "SSRFeeCode": "BAG15",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "CEB",
+                "ArrivalStation": "DGT",
+                "Note": "",
+                "STD": "2018-06-15T05:30:00"
+              },
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "CEB",
+                "ArrivalStation": "DGT",
+                "Note": "",
+                "STD": "2018-06-15T05:30:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [
+              {
+                "PassengerNumber": 0,
+                "ArrivalStation": "DGT",
+                "DepartureStation": "CEB",
+                "UnitDesignator": "8A",
+                "CompartmentDesignator": "Y",
+                "PropertyList": [
+                  {
+                    "TypeCode": 19,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 18,
+                    "Value": "Y"
+                  }
+                ]
+              }
+            ],
+            "EquipmentType": "AT7",
+            "EquipmentTypeSuffix": "",
+            "AircraftType": null,
+            "Airline": "Cebgo"
+          }
+        ],
+        "SelectedAddons": [
+          {
+            "SsrCode": "BG15",
+            "Name": "Prepaid Baggage",
+            "FeeCode": "BAG15",
+            "SsrNumber": 1,
+            "Amount": 313.6000,
+            "SSRNote": null,
+            "SSRType": 0,
+            "ServiceType": 0
+          }
+        ],
+        "IsReroutable": false,
+        "IsRebookable": false,
+        "IsCancellable": false,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": false,
+        "IsFlown": true
+      }
+    ],
+    "RecordLocator": "A8R44P",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824731
+  },
+  {
+    "ReferenceNo": "XYH13P",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T03:48:19.917Z",
+    "PassengerNames": [
+      {
+        "FirstName": "kris one",
+        "MiddleName": "test",
+        "LastName": "kho",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 2099.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 629~ ~~MNL~06/14/2018 14:55~DGT~06/14/2018 16:15~",
+        "ArrivalStation": {
+          "StationCode": "DGT",
+          "StationName": "Dumaguete ",
+          "AirportName": "Sibulan Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "D",
+            "CarrierCode": "5J",
+            "FareBasisCode": "DRP",
+            "FareTypeCode": "P",
+            "FareTypeName": "Promo",
+            "ProductClass": "YP",
+            "FareSellKey": "0~D~ ~DRP~5510~~0~X",
+            "BaseSum": 2774.8800,
+            "BaseFare": 2099.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 251.8800,
+            "SegmentIdentity": [ "5J~ 629~ ~~MNL~06/14/2018 14:55~DGT~06/14/2018 16:15~^0~D~ ~DRP~5510~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2099.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DGT",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DGT",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DGT",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DGT",
+                    "Amount": 251.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:20:00",
+            "SegmentSellKey": "5J~ 629~ ~~MNL~06/14/2018 14:55~DGT~06/14/2018 16:15~",
+            "ArrivalStation": {
+              "StationCode": "DGT",
+              "StationName": "Dumaguete ",
+              "AirportName": "Sibulan Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 629",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-06-14T16:15:00",
+            "STD": "2018-06-14T14:55:00",
+            "UTCA": "2018-06-14T08:15:00",
+            "UTCD": "2018-06-14T06:55:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "D",
+                "CarrierCode": "5J",
+                "FareBasisCode": "DRP",
+                "FareTypeCode": "P",
+                "FareTypeName": "Promo",
+                "ProductClass": "YP",
+                "FareSellKey": "0~D~ ~DRP~5510~~0~X",
+                "BaseSum": 2774.8800,
+                "BaseFare": 2099.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 251.8800,
+                "SegmentIdentity": [ "5J~ 629~ ~~MNL~06/14/2018 14:55~DGT~06/14/2018 16:15~^0~D~ ~DRP~5510~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2099.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DGT",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DGT",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DGT",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DGT",
+                        "Amount": 251.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "DGT",
+                "Note": "",
+                "STD": "2018-06-14T14:55:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [
+              {
+                "PassengerNumber": 0,
+                "ArrivalStation": "DGT",
+                "DepartureStation": "MNL",
+                "UnitDesignator": "15A",
+                "CompartmentDesignator": "Y",
+                "PropertyList": [
+                  {
+                    "TypeCode": 19,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 4,
+                    "Value": "1"
+                  },
+                  {
+                    "TypeCode": 20,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 7,
+                    "Value": "TRUE"
+                  },
+                  {
+                    "TypeCode": 18,
+                    "Value": "Y"
+                  }
+                ]
+              }
+            ],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": false,
+        "IsRebookable": false,
+        "IsCancellable": false,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": true
+      }
+    ],
+    "RecordLocator": "XYH13P",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824730
+  },
+  {
+    "ReferenceNo": "EGNSSK",
+    "HoldDateTime": "2018-06-14T15:47:18Z",
+    "BookingDate": "2018-06-14T03:47:18.04Z",
+    "PassengerNames": [
+      {
+        "FirstName": "HANS",
+        "MiddleName": "",
+        "LastName": "TEST",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 3769.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 473~ ~~MNL~10/22/2018 04:20~BCD~10/22/2018 05:30~",
+        "ArrivalStation": {
+          "StationCode": "BCD",
+          "StationName": "Bacolod",
+          "AirportName": "New Bacolod Silay Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+            "BaseSum": 3704.4800,
+            "BaseFare": 2929.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 351.4800,
+            "SegmentIdentity": [ "5J~ 473~ ~~MNL~10/22/2018 04:20~BCD~10/22/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2929.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-BCD",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-BCD",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-BCD",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-BCD",
+                    "Amount": 351.4800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              },
+              {
+                "Count": 1,
+                "Description": "Infant (Lap)",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "INFT",
+                    "TicketCode": "INF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Infant Fee",
+                    "Amount": 840.0000
+                  }
+                ],
+                "PaxType": "INFT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:10:00",
+            "SegmentSellKey": "5J~ 473~ ~~MNL~10/22/2018 04:20~BCD~10/22/2018 05:30~",
+            "ArrivalStation": {
+              "StationCode": "BCD",
+              "StationName": "Bacolod",
+              "AirportName": "New Bacolod Silay Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 473",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-10-22T05:30:00",
+            "STD": "2018-10-22T04:20:00",
+            "UTCA": "2018-10-21T21:30:00",
+            "UTCD": "2018-10-21T20:20:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+                "BaseSum": 3704.4800,
+                "BaseFare": 2929.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 351.4800,
+                "SegmentIdentity": [ "5J~ 473~ ~~MNL~10/22/2018 04:20~BCD~10/22/2018 05:30~^0~G~ ~GRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2929.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-BCD",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-BCD",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-BCD",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-BCD",
+                        "Amount": 351.4800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  },
+                  {
+                    "Count": 1,
+                    "Description": "Infant (Lap)",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "INFT",
+                        "TicketCode": "INF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Infant Fee",
+                        "Amount": 840.0000
+                      }
+                    ],
+                    "PaxType": "INFT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "INFT",
+                "SSRFeeCode": "INFT",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "BCD",
+                "Note": "",
+                "STD": "2018-10-22T04:20:00"
+              },
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "BCD",
+                "Note": "",
+                "STD": "2018-10-22T04:20:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      },
+      {
+        "JourneyFareSum": 3769.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 488~ ~~BCD~10/26/2018 14:20~MNL~10/26/2018 15:45~",
+        "ArrivalStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "BCD",
+          "StationName": "Bacolod",
+          "AirportName": "New Bacolod Silay Airport",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+            "BaseSum": 3719.4800,
+            "BaseFare": 2929.0000,
+            "BaseFee": 439.0000,
+            "BaseTax": 351.4800,
+            "SegmentIdentity": [ "5J~ 488~ ~~BCD~10/26/2018 14:20~MNL~10/26/2018 15:45~^0~G~ ~GRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 2929.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "ASF",
+                    "TicketCode": "ASF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "BCD-MNL",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "BCD-MNL",
+                    "Amount": 178.5700
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "BCD-MNL",
+                    "Amount": 21.4300
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "BCD-MNL",
+                    "Amount": 351.4800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              },
+              {
+                "Count": 1,
+                "Description": "Infant (Lap)",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "INFT",
+                    "TicketCode": "INF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Infant Fee",
+                    "Amount": 840.0000
+                  }
+                ],
+                "PaxType": "INFT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:25:00",
+            "SegmentSellKey": "5J~ 488~ ~~BCD~10/26/2018 14:20~MNL~10/26/2018 15:45~",
+            "ArrivalStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "BCD",
+              "StationName": "Bacolod",
+              "AirportName": "New Bacolod Silay Airport",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 488",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-10-26T15:45:00",
+            "STD": "2018-10-26T14:20:00",
+            "UTCA": "2018-10-26T07:45:00",
+            "UTCD": "2018-10-26T06:20:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+                "BaseSum": 3719.4800,
+                "BaseFare": 2929.0000,
+                "BaseFee": 439.0000,
+                "BaseTax": 351.4800,
+                "SegmentIdentity": [ "5J~ 488~ ~~BCD~10/26/2018 14:20~MNL~10/26/2018 15:45~^0~G~ ~GRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 2929.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "ASF",
+                        "TicketCode": "ASF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "BCD-MNL",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "BCD-MNL",
+                        "Amount": 178.5700
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "BCD-MNL",
+                        "Amount": 21.4300
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "BCD-MNL",
+                        "Amount": 351.4800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  },
+                  {
+                    "Count": 1,
+                    "Description": "Infant (Lap)",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "INFT",
+                        "TicketCode": "INF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Infant Fee",
+                        "Amount": 840.0000
+                      }
+                    ],
+                    "PaxType": "INFT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "INFT",
+                "SSRFeeCode": "INFT",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "BCD",
+                "ArrivalStation": "MNL",
+                "Note": "",
+                "STD": "2018-10-26T14:20:00"
+              },
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "BCD",
+                "ArrivalStation": "MNL",
+                "Note": "",
+                "STD": "2018-10-26T14:20:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "EGNSSK",
+    "BookingStatus": "Hold",
+    "BookingID": 133824729
+  },
+  {
+    "ReferenceNo": "DCKCGG",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T03:32:53.777Z",
+    "PassengerNames": [
+      {
+        "FirstName": "HANS",
+        "MiddleName": "",
+        "LastName": "TEST",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 4199.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "DM",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 959~ ~~MNL~09/19/2018 04:30~DVO~09/19/2018 06:25~",
+        "ArrivalStation": {
+          "StationCode": "DVO",
+          "StationName": "Davao ",
+          "AirportName": "Francisco Bangoy International Airport",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+            "BaseSum": 5126.8800,
+            "BaseFare": 4199.0000,
+            "BaseFee": 424.0000,
+            "BaseTax": 503.8800,
+            "SegmentIdentity": [ "5J~ 959~ ~~MNL~09/19/2018 04:30~DVO~09/19/2018 06:25~^0~G~ ~GRP~5501~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 4199.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DVO",
+                    "Amount": 165.1800
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIASF",
+                    "TicketCode": "ASM",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DVO",
+                    "Amount": 15.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DVO",
+                    "Amount": 19.8200
+                  },
+                  {
+                    "ChargeType": 5,
+                    "ChargeCode": "PV",
+                    "TicketCode": "PV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-DVO",
+                    "Amount": 503.8800
+                  },
+                  {
+                    "ChargeType": 6,
+                    "ChargeCode": "WADFEE",
+                    "TicketCode": "WAF",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "Administra",
+                    "Amount": 224.0000
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "01:55:00",
+            "SegmentSellKey": "5J~ 959~ ~~MNL~09/19/2018 04:30~DVO~09/19/2018 06:25~",
+            "ArrivalStation": {
+              "StationCode": "DVO",
+              "StationName": "Davao ",
+              "AirportName": "Francisco Bangoy International Airport",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 959",
+              "OpSuffix": " "
+            },
+            "IsInternational": false,
+            "STA": "2018-09-19T06:25:00",
+            "STD": "2018-09-19T04:30:00",
+            "UTCA": "2018-09-18T22:25:00",
+            "UTCD": "2018-09-18T20:30:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~5501~~0~X",
+                "BaseSum": 5126.8800,
+                "BaseFare": 4199.0000,
+                "BaseFee": 424.0000,
+                "BaseTax": 503.8800,
+                "SegmentIdentity": [ "5J~ 959~ ~~MNL~09/19/2018 04:30~DVO~09/19/2018 06:25~^0~G~ ~GRP~5501~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 4199.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DVO",
+                        "Amount": 165.1800
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIASF",
+                        "TicketCode": "ASM",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DVO",
+                        "Amount": 15.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DVO",
+                        "Amount": 19.8200
+                      },
+                      {
+                        "ChargeType": 5,
+                        "ChargeCode": "PV",
+                        "TicketCode": "PV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-DVO",
+                        "Amount": 503.8800
+                      },
+                      {
+                        "ChargeType": 6,
+                        "ChargeCode": "WADFEE",
+                        "TicketCode": "WAF",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "Administra",
+                        "Amount": 224.0000
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [
+              {
+                "SSRCode": "WAFI",
+                "SSRFeeCode": "WADFEE",
+                "SSRNumber": 1,
+                "PassengerNumber": 0,
+                "DepartureStation": "MNL",
+                "ArrivalStation": "DVO",
+                "Note": "",
+                "STD": "2018-09-19T04:30:00"
+              }
+            ],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "DCKCGG",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824725
+  },
+  {
+    "ReferenceNo": "VEU74Q",
+    "HoldDateTime": "9999-12-31T00:00:00Z",
+    "BookingDate": "2018-06-14T02:54:25.45Z",
+    "PassengerNames": [
+      {
+        "FirstName": "QWERTY",
+        "MiddleName": "",
+        "LastName": "TEST",
+        "Suffix": "",
+        "Title": "MR"
+      }
+    ],
+    "Journeys": [
+      {
+        "JourneyFareSum": 4599.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "SH",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 108~ ~~MNL~07/25/2018 05:30~HKG~07/25/2018 07:40~",
+        "ArrivalStation": {
+          "StationCode": "HKG",
+          "StationName": "HongKong",
+          "AirportName": "Hong Kong International Airport",
+          "CountryCode": "HK"
+        },
+        "DepartureStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "V",
+            "CarrierCode": "5J",
+            "FareBasisCode": "VRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~V~ ~VRP~6001~~0~X",
+            "BaseSum": 5149.0000,
+            "BaseFare": 4599.0000,
+            "BaseFee": 550.0000,
+            "BaseTax": 0.0,
+            "SegmentIdentity": [ "5J~ 108~ ~~MNL~07/25/2018 05:30~HKG~07/25/2018 07:40~^0~V~ ~VRP~6001~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 4599.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LI",
+                    "TicketCode": "LI",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-HKG",
+                    "Amount": 491.0700
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "LIPV",
+                    "TicketCode": "LPV",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "MNL-HKG",
+                    "Amount": 58.9300
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "02:10:00",
+            "SegmentSellKey": "5J~ 108~ ~~MNL~07/25/2018 05:30~HKG~07/25/2018 07:40~",
+            "ArrivalStation": {
+              "StationCode": "HKG",
+              "StationName": "HongKong",
+              "AirportName": "Hong Kong International Airport",
+              "CountryCode": "HK"
+            },
+            "DepartureStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 108",
+              "OpSuffix": " "
+            },
+            "IsInternational": true,
+            "STA": "2018-07-25T07:40:00",
+            "STD": "2018-07-25T05:30:00",
+            "UTCA": "2018-07-24T23:40:00",
+            "UTCD": "2018-07-24T21:30:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "V",
+                "CarrierCode": "5J",
+                "FareBasisCode": "VRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~V~ ~VRP~6001~~0~X",
+                "BaseSum": 5149.0000,
+                "BaseFare": 4599.0000,
+                "BaseFee": 550.0000,
+                "BaseTax": 0.0,
+                "SegmentIdentity": [ "5J~ 108~ ~~MNL~07/25/2018 05:30~HKG~07/25/2018 07:40~^0~V~ ~VRP~6001~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 4599.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LI",
+                        "TicketCode": "LI",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-HKG",
+                        "Amount": 491.0700
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "LIPV",
+                        "TicketCode": "LPV",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "MNL-HKG",
+                        "Amount": 58.9300
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      },
+      {
+        "JourneyFareSum": 5899.0000,
+        "CurrencyCode": "PHP",
+        "FlightLength": "SH",
+        "FlightType": "Direct",
+        "JourneySellKey": "5J~ 109~ ~~HKG~08/16/2018 08:25~MNL~08/16/2018 10:35~",
+        "ArrivalStation": {
+          "StationCode": "MNL",
+          "StationName": "Manila",
+          "AirportName": "Ninoy Aquino International Airport Terminal 3",
+          "CountryCode": "PH"
+        },
+        "DepartureStation": {
+          "StationCode": "HKG",
+          "StationName": "HongKong",
+          "AirportName": "Hong Kong International Airport",
+          "CountryCode": "HK"
+        },
+        "Fares": [
+          {
+            "FareApplicationType": "Route",
+            "ClassOfService": "G",
+            "CarrierCode": "5J",
+            "FareBasisCode": "GRP",
+            "FareTypeCode": "R",
+            "FareTypeName": "Regular",
+            "ProductClass": "",
+            "FareSellKey": "0~G~ ~GRP~6001~~0~X",
+            "BaseSum": 7565.4000,
+            "BaseFare": 5899.0000,
+            "BaseFee": 1666.4000,
+            "BaseTax": 0.0,
+            "SegmentIdentity": [ "5J~ 109~ ~~HKG~08/16/2018 08:25~MNL~08/16/2018 10:35~^0~G~ ~GRP~6001~~0~X" ],
+            "FareBundles": null,
+            "PaxFares": [
+              {
+                "Count": 1,
+                "Description": "Adult",
+                "FareDiscount": null,
+                "FareDiscountCode": "",
+                "Charges": [
+                  {
+                    "ChargeType": 0,
+                    "ChargeCode": "",
+                    "TicketCode": "FARE",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "",
+                    "Amount": 5899.0000
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "G3",
+                    "TicketCode": "G3",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "HKG-MNL",
+                    "Amount": 588.1400
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "HK",
+                    "TicketCode": "HK",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "HKG-MNL",
+                    "Amount": 784.1900
+                  },
+                  {
+                    "ChargeType": 4,
+                    "ChargeCode": "I5",
+                    "TicketCode": "I5",
+                    "TicketType": 0,
+                    "CurrencyCode": "PHP",
+                    "ChargeDetail": "HKG-MNL",
+                    "Amount": 294.0700
+                  }
+                ],
+                "PaxType": "ADT",
+                "PaxDiscountCode": ""
+              }
+            ]
+          }
+        ],
+        "Segments": [
+          {
+            "Duration": "02:10:00",
+            "SegmentSellKey": "5J~ 109~ ~~HKG~08/16/2018 08:25~MNL~08/16/2018 10:35~",
+            "ArrivalStation": {
+              "StationCode": "MNL",
+              "StationName": "Manila",
+              "AirportName": "Ninoy Aquino International Airport Terminal 3",
+              "CountryCode": "PH"
+            },
+            "DepartureStation": {
+              "StationCode": "HKG",
+              "StationName": "HongKong",
+              "AirportName": "Hong Kong International Airport",
+              "CountryCode": "HK"
+            },
+            "FlightDesignator": {
+              "CarrierCode": "5J",
+              "FlightNumber": " 109",
+              "OpSuffix": " "
+            },
+            "IsInternational": true,
+            "STA": "2018-08-16T10:35:00",
+            "STD": "2018-08-16T08:25:00",
+            "UTCA": "2018-08-16T02:35:00",
+            "UTCD": "2018-08-16T00:25:00",
+            "Fares": [
+              {
+                "FareApplicationType": "Route",
+                "ClassOfService": "G",
+                "CarrierCode": "5J",
+                "FareBasisCode": "GRP",
+                "FareTypeCode": "R",
+                "FareTypeName": "Regular",
+                "ProductClass": "",
+                "FareSellKey": "0~G~ ~GRP~6001~~0~X",
+                "BaseSum": 7565.4000,
+                "BaseFare": 5899.0000,
+                "BaseFee": 1666.4000,
+                "BaseTax": 0.0,
+                "SegmentIdentity": [ "5J~ 109~ ~~HKG~08/16/2018 08:25~MNL~08/16/2018 10:35~^0~G~ ~GRP~6001~~0~X" ],
+                "FareBundles": null,
+                "PaxFares": [
+                  {
+                    "Count": 1,
+                    "Description": "Adult",
+                    "FareDiscount": null,
+                    "FareDiscountCode": "",
+                    "Charges": [
+                      {
+                        "ChargeType": 0,
+                        "ChargeCode": "",
+                        "TicketCode": "FARE",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "",
+                        "Amount": 5899.0000
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "G3",
+                        "TicketCode": "G3",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "HKG-MNL",
+                        "Amount": 588.1400
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "HK",
+                        "TicketCode": "HK",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "HKG-MNL",
+                        "Amount": 784.1900
+                      },
+                      {
+                        "ChargeType": 4,
+                        "ChargeCode": "I5",
+                        "TicketCode": "I5",
+                        "TicketType": 0,
+                        "CurrencyCode": "PHP",
+                        "ChargeDetail": "HKG-MNL",
+                        "Amount": 294.0700
+                      }
+                    ],
+                    "PaxType": "ADT",
+                    "PaxDiscountCode": ""
+                  }
+                ]
+              }
+            ],
+            "PaxSsrs": [],
+            "PaxBags": [],
+            "PaxSeats": [],
+            "EquipmentType": "320",
+            "EquipmentTypeSuffix": "B",
+            "AircraftType": null,
+            "Airline": "Cebu Pacific Air"
+          }
+        ],
+        "SelectedAddons": [],
+        "IsReroutable": true,
+        "IsRebookable": true,
+        "IsCancellable": true,
+        "IsDisrupted": false,
+        "IsCebTransferAllowed": false,
+        "IsSportsEquipmentAllowed": true,
+        "IsFlown": false
+      }
+    ],
+    "RecordLocator": "VEU74Q",
+    "BookingStatus": "Confirmed",
+    "BookingID": 133824716
+  }
+]
